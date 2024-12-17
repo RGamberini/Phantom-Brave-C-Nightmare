@@ -1,0 +1,12 @@
+# ninja log v6
+492	657	7561197008655890	Phantom_Brave_C__.exe	a8e49d6ed7cd3b80
+5	492	7561197003789892	CMakeFiles/Phantom_Brave_C__.dir/main.cpp.obj	3b07ead540cc9292
+3	310	7561197837277022	build.ninja	2c021bcb239fdc20
+5	488	7561213562570027	CMakeFiles/Phantom_Brave_C__.dir/main.cpp.obj	3b07ead540cc9292
+488	643	7561213567399692	Phantom_Brave_C__.exe	a8e49d6ed7cd3b80
+5	495	7561214123027073	CMakeFiles/Phantom_Brave_C__.dir/main.cpp.obj	3b07ead540cc9292
+495	663	7561214127927056	Phantom_Brave_C__.exe	a8e49d6ed7cd3b80
+5	494	7561214469522939	CMakeFiles/Phantom_Brave_C__.dir/main.cpp.obj	3b07ead540cc9292
+494	651	7561214474424293	Phantom_Brave_C__.exe	a8e49d6ed7cd3b80
+5	477	7561216268991178	CMakeFiles/Phantom_Brave_C__.dir/main.cpp.obj	3b07ead540cc9292
+478	635	7561216273717758	Phantom_Brave_C__.exe	a8e49d6ed7cd3b80

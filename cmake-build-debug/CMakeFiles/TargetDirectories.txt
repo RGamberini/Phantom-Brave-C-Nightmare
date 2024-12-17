@@ -1,0 +1,3 @@
+C:/Users/Rudy/Code/Phantom Brave C++/cmake-build-debug/CMakeFiles/Phantom_Brave_C__.dir
+C:/Users/Rudy/Code/Phantom Brave C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rudy/Code/Phantom Brave C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
